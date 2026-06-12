@@ -23,7 +23,7 @@
 
 ### Draft: Release Note
 
-- Show [iOS note](./releases/ios/)
+- Show [iOS note](../releases/ios/index.md)
 - Show [Android note](./releases/android/)
 
 ## Contributors
