@@ -21,9 +21,9 @@
 - [Apple Store](https://apps.apple.com/jp/app/%E3%83%88%E3%82%AF%E3%83%A1%E3%83%A2/id1582738889)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.tokudai0000.tokumemo&hl=ja)
 
-### Draft: Release Note
+### Release Note
 
-- Show [iOS note](./releases/ios/)
+- Show [iOS note](../releases/ios/index.md)
 - Show [Android note](./releases/android/)
 
 ## Contributors
